@@ -8,3 +8,5 @@ What benefits leads scoring?
 1. Prioritize Sales Efforts: It helps to identify and prioritize leads that are most likely to convert, allowing sales teams to focus their efforts on the most promising prospects.
 2. Enhance Lead Quality: It improves the quality of leads passed to sales by ensuring that only the leads with the highest potential are pursued.
 3. Improve ROI on Marketing Campaigns: By focusing on high-scoring leads, companies can achieve a higher return on investment for their marketing campaigns.
+
+Link to dataset: https://www.kaggle.com/datasets/amritachatterjee09/lead-scoring-dataset
